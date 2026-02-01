@@ -1,0 +1,9 @@
+{
+  "nativeMenus": true,
+  "cssTheme": "Tokyo Night",
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "textFontFamily": "Adwaita Sans",
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Adwaita Sans"
+}
